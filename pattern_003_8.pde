@@ -6,9 +6,9 @@
 // https://www.openprocessing.org/user/23616/
 // 
 // Code on Github at https://github.com/rupertrussell/pattern_003
-// 
+// artwork on redbubble at: https://www.redbubble.com/people/rupertrussell/works/32529392-pattern-003-8-1
 
-int tileSize = 80;
+int tileSize = 770;
 int count = 0;
 
 color color0 = #152A3B;
@@ -20,7 +20,7 @@ color color4 = #F5F5EB;
 color[] colourAt = new color[6];
 
 void setup() {
-  size(4000, 4000);
+  size(7700, 7700);
   noLoop();
   stroke(0);
   noStroke();
